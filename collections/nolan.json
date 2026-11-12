@@ -1,0 +1,15 @@
+[
+  {"title": "Sledování", "year": 1999, "genre": "Drama / Thriller", "imdb_id": "tt0154506"},
+  {"title": "Memento", "year": 2000, "genre": "Mysteriózní / Thriller", "imdb_id": "tt0209144"},
+  {"title": "Insomnie", "year": 2002, "genre": "Thriller / Krimi / Drama", "imdb_id": "tt0278504"},
+  {"title": "Batman začíná", "year": 2005, "genre": "Drama / Krimi / Akční", "imdb_id": "tt0372784"},
+  {"title": "Dokonalý trik", "year": 2006, "genre": "Drama / Mysteriózní / Vědeckofantastický", "imdb_id": "tt0482571"},
+  {"title": "Temný rytíř", "year": 2008, "genre": "Akční / Thriller / Krimi", "imdb_id": "tt0468569"},
+  {"title": "Počátek", "year": 2010, "genre": "Akční / Vědeckofantastický / Krimi", "imdb_id": "tt1375666"},
+  {"title": "Temný rytíř povstal", "year": 2012, "genre": "Akční / Krimi / Thriller", "imdb_id": "tt1345836"},
+  {"title": "Interstellar", "year": 2014, "genre": "Dobrodružný / Drama / Vědeckofantastický", "imdb_id": "tt0816692"},
+  {"title": "Dunkerk", "year": 2017, "genre": "Válečný / Akční / Historický", "imdb_id": "tt5013056"},
+  {"title": "Tenet", "year": 2020, "genre": "Akční / Thriller / Vědeckofantastický", "imdb_id": "tt6723592"},
+  {"title": "Oppenheimer", "year": 2023, "genre": "Drama / Historický / Válečný", "imdb_id": "tt15398776"},
+  {"title": "Odyssea", "year": 2026, "genre": "Dobrodružný / Akční / Fantasy", "imdb_id": "tt33764258"}
+]
