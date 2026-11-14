@@ -1,0 +1,10 @@
+[
+  {"title": "Mission: Impossible", "year": 1996, "genre": "Dobrodružný / Akční / Thriller", "imdb_id": "tt0117060", "tmdb_id": 954, "poster": "https://image.tmdb.org/t/p/w342/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg", "rating": 7.0, "votes": 10463},
+  {"title": "Mission: Impossible 2", "year": 2000, "genre": "Dobrodružný / Akční / Thriller", "imdb_id": "tt0120755", "tmdb_id": 955, "poster": "https://image.tmdb.org/t/p/w342/hfnrual76gPeNFduhD4xzHWpfTw.jpg", "rating": 6.1, "votes": 7962},
+  {"title": "Mission: Impossible III", "year": 2006, "genre": "Dobrodružný / Akční / Thriller", "imdb_id": "tt0317919", "tmdb_id": 956, "poster": "https://image.tmdb.org/t/p/w342/vKGYCpmQyV9uHybWDzXuII8Los5.jpg", "rating": 6.8, "votes": 7993},
+  {"title": "Mission: Impossible - Ghost Protocol", "year": 2011, "genre": "Akční / Thriller / Dobrodružný", "imdb_id": "tt1229238", "tmdb_id": 56292, "poster": "https://image.tmdb.org/t/p/w342/c6gPN8R6cP24lnusKMvemAdOadq.jpg", "rating": 7.1, "votes": 11164},
+  {"title": "Mission: Impossible - Národ grázlů", "year": 2015, "genre": "Akční / Dobrodružný", "imdb_id": "tt2381249", "tmdb_id": 177677, "poster": "https://image.tmdb.org/t/p/w342/sBIB4YHZemJTvcoCl1MYTbZGgzM.jpg", "rating": 7.2, "votes": 10097},
+  {"title": "Mission: Impossible - Fallout", "year": 2018, "genre": "Akční / Dobrodružný", "imdb_id": "tt4912910", "tmdb_id": 353081, "poster": "https://image.tmdb.org/t/p/w342/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg", "rating": 7.5, "votes": 9557},
+  {"title": "Mission: Impossible Odplata – První část", "year": 2023, "genre": "Akční / Dobrodružný / Thriller", "imdb_id": "tt9603212", "tmdb_id": 575264, "poster": "https://image.tmdb.org/t/p/w342/3cv0IvAyTbXZPCFPP8ZlHuu3Xvs.jpg", "rating": 7.5, "votes": 5521},
+  {"title": "Mission: Impossible – Poslední zúčtování", "year": 2025, "genre": "Akční / Thriller / Dobrodružný", "imdb_id": "tt9603208", "tmdb_id": 575265, "poster": "https://image.tmdb.org/t/p/w342/kbaIzwmL4L9U4B8DRUmA5wsL1Yh.jpg", "rating": 7.2, "votes": 3326}
+]

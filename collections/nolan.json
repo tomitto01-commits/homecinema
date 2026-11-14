@@ -1,15 +1,15 @@
 [
-  {"title": "Sledování", "year": 1999, "genre": "Drama / Thriller", "imdb_id": "tt0154506"},
-  {"title": "Memento", "year": 2000, "genre": "Mysteriózní / Thriller", "imdb_id": "tt0209144"},
-  {"title": "Insomnie", "year": 2002, "genre": "Thriller / Krimi / Drama", "imdb_id": "tt0278504"},
-  {"title": "Batman začíná", "year": 2005, "genre": "Drama / Krimi / Akční", "imdb_id": "tt0372784"},
-  {"title": "Dokonalý trik", "year": 2006, "genre": "Drama / Mysteriózní / Vědeckofantastický", "imdb_id": "tt0482571"},
-  {"title": "Temný rytíř", "year": 2008, "genre": "Akční / Thriller / Krimi", "imdb_id": "tt0468569"},
-  {"title": "Počátek", "year": 2010, "genre": "Akční / Vědeckofantastický / Krimi", "imdb_id": "tt1375666"},
-  {"title": "Temný rytíř povstal", "year": 2012, "genre": "Akční / Krimi / Thriller", "imdb_id": "tt1345836"},
-  {"title": "Interstellar", "year": 2014, "genre": "Dobrodružný / Drama / Vědeckofantastický", "imdb_id": "tt0816692"},
-  {"title": "Dunkerk", "year": 2017, "genre": "Válečný / Akční / Historický", "imdb_id": "tt5013056"},
-  {"title": "Tenet", "year": 2020, "genre": "Akční / Thriller / Vědeckofantastický", "imdb_id": "tt6723592"},
-  {"title": "Oppenheimer", "year": 2023, "genre": "Drama / Historický / Válečný", "imdb_id": "tt15398776"},
-  {"title": "Odyssea", "year": 2026, "genre": "Dobrodružný / Akční / Fantasy", "imdb_id": "tt33764258"}
+  {"title": "Sledování", "year": 1999, "genre": "Drama / Thriller", "imdb_id": "tt0154506", "tmdb_id": 11660, "poster": "https://image.tmdb.org/t/p/w342/3bX6VVSMf0dvzk5pMT4ALG5A92d.jpg", "rating": 7.1, "votes": 2025},
+  {"title": "Memento", "year": 2000, "genre": "Mysteriózní / Thriller", "imdb_id": "tt0209144", "tmdb_id": 77, "poster": "https://image.tmdb.org/t/p/w342/nzlv62aC0octS5AklAiWpXLX9Z0.jpg", "rating": 8.2, "votes": 17039},
+  {"title": "Insomnie", "year": 2002, "genre": "Thriller / Krimi / Drama", "imdb_id": "tt0278504", "tmdb_id": 320, "poster": "https://image.tmdb.org/t/p/w342/14UTCYurhIlQWHJX72cqUR64ZNf.jpg", "rating": 7.0, "votes": 5653},
+  {"title": "Batman začíná", "year": 2005, "genre": "Drama / Krimi / Akční", "imdb_id": "tt0372784", "tmdb_id": 272, "poster": "https://image.tmdb.org/t/p/w342/qlAQtj3ym0e4Xpfb10xqb7CC0yS.jpg", "rating": 7.7, "votes": 23524},
+  {"title": "Dokonalý trik", "year": 2006, "genre": "Drama / Mysteriózní / Vědeckofantastický", "imdb_id": "tt0482571", "tmdb_id": 1124, "poster": "https://image.tmdb.org/t/p/w342/k8tyIq8Vh2P2rx3azHf5JcNBkFE.jpg", "rating": 8.2, "votes": 18457},
+  {"title": "Temný rytíř", "year": 2008, "genre": "Akční / Thriller / Krimi", "imdb_id": "tt0468569", "tmdb_id": 155, "poster": "https://image.tmdb.org/t/p/w342/zGfUVhyIhnCb44VKiPiw7p7pdI4.jpg", "rating": 8.5, "votes": 37366},
+  {"title": "Počátek", "year": 2010, "genre": "Akční / Vědeckofantastický / Krimi", "imdb_id": "tt1375666", "tmdb_id": 27205, "poster": "https://image.tmdb.org/t/p/w342/bgIt92V3IDysoAIcEfOo2ZK9PEv.jpg", "rating": 8.4, "votes": 40720},
+  {"title": "Temný rytíř povstal", "year": 2012, "genre": "Akční / Krimi / Thriller", "imdb_id": "tt1345836", "tmdb_id": 49026, "poster": "https://image.tmdb.org/t/p/w342/guG09K0cxo9UJMBlbYRTwh2GylW.jpg", "rating": 7.8, "votes": 25311},
+  {"title": "Interstellar", "year": 2014, "genre": "Dobrodružný / Drama / Vědeckofantastický", "imdb_id": "tt0816692", "tmdb_id": 157336, "poster": "https://image.tmdb.org/t/p/w342/6qdusBmmCndnYs1jkf7BSUrIoBr.jpg", "rating": 8.5, "votes": 41881},
+  {"title": "Dunkerk", "year": 2017, "genre": "Válečný / Akční / Historický", "imdb_id": "tt5013056", "tmdb_id": 374720, "poster": "https://image.tmdb.org/t/p/w342/vvabU7mZkohtB2yeEcVV6PcE71C.jpg", "rating": 7.5, "votes": 18233},
+  {"title": "Tenet", "year": 2020, "genre": "Akční / Thriller / Vědeckofantastický", "imdb_id": "tt6723592", "tmdb_id": 577922, "poster": "https://image.tmdb.org/t/p/w342/lhauCTw99l7NLHNMnosVcM9AR4K.jpg", "rating": 7.2, "votes": 11767},
+  {"title": "Oppenheimer", "year": 2023, "genre": "Drama / Historický / Válečný", "imdb_id": "tt15398776", "tmdb_id": 872585, "poster": "https://image.tmdb.org/t/p/w342/uwOo42nxRKeD5pyG2aREp0Dfu2a.jpg", "rating": 8.0, "votes": 12904},
+  {"title": "Odyssea", "year": 2026, "genre": "Dobrodružný / Akční / Fantasy", "imdb_id": "tt33764258", "tmdb_id": 1368337, "poster": "https://image.tmdb.org/t/p/w342/zLbUuaoCctimWJ4TUPW2C1yVImc.jpg", "rating": 8.0, "votes": 4784}
 ]

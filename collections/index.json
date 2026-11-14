@@ -1,0 +1,466 @@
+{
+ "version": 1,
+ "updated": "2026-11-14",
+ "groups": [
+  {
+   "id": "sagas",
+   "name": "Filmové ságy",
+   "items": [
+    {
+     "id": "star-wars",
+     "name": "Star Wars",
+     "desc": "Všech devět epizod ságy Skywalkerů, animované Klonové války a dva samostatné příběhy. Pořadí jde přepnout podle příběhu, nebo podle toho, jak šly do kin.",
+     "file": "collections/star-wars.json",
+     "count": 12,
+     "art": "https://image.tmdb.org/t/p/w780/4qCqAdHcNKeAHcK8tJ8wNJZa9cx.jpg",
+     "saga": true,
+     "story": true
+    },
+    {
+     "id": "harry-potter",
+     "name": "Harry Potter a Fantastická zvířata",
+     "desc": "Celý kouzelnický svět: osm filmů o Harrym a tři Fantastická zvířata, která se odehrávají o desítky let dřív.",
+     "file": "collections/harry-potter.json",
+     "count": 11,
+     "art": "https://image.tmdb.org/t/p/w780/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg",
+     "saga": true,
+     "story": true
+    },
+    {
+     "id": "middle-earth",
+     "name": "Pán prstenů a Hobit",
+     "desc": "Středozem Petera Jacksona. Podle příběhu začíná Válkou Rohirů a Hobitem, podle vydání Společenstvem Prstenu.",
+     "file": "collections/middle-earth.json",
+     "count": 7,
+     "art": "https://image.tmdb.org/t/p/w780/oiwc338EoBgS4sEI2ixAny4KQKg.jpg",
+     "saga": true,
+     "story": true
+    },
+    {
+     "id": "bond",
+     "name": "James Bond 007",
+     "desc": "Všechny bondovky od Dr. No po Není čas zemřít. Pod plakátem je vždy herec, který Bonda hrál.",
+     "file": "collections/bond.json",
+     "count": 26,
+     "art": "https://image.tmdb.org/t/p/w780/wkA622CCN2X0uwpgqYEOnUYEDf5.jpg",
+     "saga": true
+    },
+    {
+     "id": "mission-impossible",
+     "name": "Mission: Impossible",
+     "desc": "Ethan Hunt a jeho tým od roku 1996 až po poslední misi.",
+     "file": "collections/mission-impossible.json",
+     "count": 8,
+     "art": "https://image.tmdb.org/t/p/w780/hqyjzDRCs1N5gEsh2gklzPdsEFD.jpg",
+     "saga": true
+    },
+    {
+     "id": "fast-furious",
+     "name": "Rychle a zběsile",
+     "desc": "Celá rodina Dominika Toretta. Podle příběhu patří Tokijská jízda až za šestý díl.",
+     "file": "collections/fast-furious.json",
+     "count": 11,
+     "art": "https://image.tmdb.org/t/p/w780/ehzI1mVcnHqB58NqPyQwpMqcVoz.jpg",
+     "saga": true,
+     "story": true
+    },
+    {
+     "id": "john-wick",
+     "name": "John Wick",
+     "desc": "Nájemný vrah, kterému sáhli na psa, a Balerína ze stejného světa.",
+     "file": "collections/john-wick.json",
+     "count": 5,
+     "art": "https://image.tmdb.org/t/p/w780/ff2ti5DkA9UYLzyqhQfI2kZqEuh.jpg",
+     "saga": true,
+     "story": true
+    },
+    {
+     "id": "matrix",
+     "name": "Matrix",
+     "desc": "Neo, Trinity a Morpheus: celá trilogie a Matrix Resurrections.",
+     "file": "collections/matrix.json",
+     "count": 4,
+     "art": "https://image.tmdb.org/t/p/w780/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+     "saga": true
+    },
+    {
+     "id": "alien",
+     "name": "Vetřelec",
+     "desc": "Ripleyová, Nostromo a xenomorfové. Podle příběhu začíná Prometheem.",
+     "file": "collections/alien.json",
+     "count": 7,
+     "art": "https://image.tmdb.org/t/p/w780/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+     "saga": true,
+     "story": true
+    },
+    {
+     "id": "predator",
+     "name": "Predátor",
+     "desc": "Lovec z vesmíru od džungle po Nebezpečné území, dvě střetnutí s Vetřelcem a animovaný Zabiják zabijáků.",
+     "file": "collections/predator.json",
+     "count": 9,
+     "art": "https://image.tmdb.org/t/p/w780/YL3GPOiDcNraIJOVDCZsoOBoDy.jpg",
+     "saga": true,
+     "story": true
+    },
+    {
+     "id": "jurassic",
+     "name": "Jurský park a svět",
+     "desc": "Dinosauři od prvního parku Stevena Spielberga po Jurský svět.",
+     "file": "collections/jurassic.json",
+     "count": 7,
+     "art": "https://image.tmdb.org/t/p/w780/dF6FjTZzRTENfB4R17HDN20jLT2.jpg",
+     "saga": true
+    },
+    {
+     "id": "terminator",
+     "name": "Terminátor",
+     "desc": "Stroje z budoucnosti a Sarah Connorová.",
+     "file": "collections/terminator.json",
+     "count": 6,
+     "art": "https://image.tmdb.org/t/p/w780/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+     "saga": true
+    },
+    {
+     "id": "back-to-the-future",
+     "name": "Návrat do budoucnosti",
+     "desc": "Marty McFly a doktor Brown v DeLoreanu.",
+     "file": "collections/back-to-the-future.json",
+     "count": 3,
+     "art": "https://image.tmdb.org/t/p/w780/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+     "saga": true
+    },
+    {
+     "id": "indiana-jones",
+     "name": "Indiana Jones",
+     "desc": "Archeolog s bičem a kloboukem. Podle příběhu začíná Chrámem zkázy.",
+     "file": "collections/indiana-jones.json",
+     "count": 5,
+     "art": "https://image.tmdb.org/t/p/w780/zPACwR32amTNvzId9qyapCWXYDJ.jpg",
+     "saga": true,
+     "story": true
+    }
+   ]
+  },
+  {
+   "id": "directors",
+   "name": "Velcí režiséři",
+   "items": [
+    {
+     "id": "nolan",
+     "name": "Christopher Nolan",
+     "desc": "Memento, Temný rytíř, Počátek, Interstellar, Oppenheimer.",
+     "file": "collections/nolan.json",
+     "count": 13,
+     "art": "https://image.tmdb.org/t/p/w780/8sNiAPPYU14PUepFNeSNGUTiHW.jpg"
+    },
+    {
+     "id": "tarantino",
+     "name": "Quentin Tarantino",
+     "desc": "Gauneři, Pulp Fiction, Kill Bill, Hanebný pancharti.",
+     "file": "collections/tarantino.json",
+     "count": 11,
+     "art": "https://image.tmdb.org/t/p/w780/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg"
+    },
+    {
+     "id": "spielberg",
+     "name": "Steven Spielberg",
+     "desc": "Od Čelistí přes E.T. a Schindlerův seznam po Fablemanovi.",
+     "file": "collections/spielberg.json",
+     "count": 36,
+     "art": "https://image.tmdb.org/t/p/w780/f082quUW2kAtZXFZVGEfhwacZoG.jpg"
+    },
+    {
+     "id": "kubrick",
+     "name": "Stanley Kubrick",
+     "desc": "Mechanický pomeranč, Osvícení, 2001: Vesmírná odysea a další klasika.",
+     "file": "collections/kubrick.json",
+     "count": 13,
+     "art": "https://image.tmdb.org/t/p/w780/AdKA2F1SzYPhSZdEbjH1Zh75UVQ.jpg"
+    },
+    {
+     "id": "scorsese",
+     "name": "Martin Scorsese",
+     "desc": "Taxikář, Mafiáni, Skrytá identita, Vlk z Wall Street.",
+     "file": "collections/scorsese.json",
+     "count": 27,
+     "art": "https://image.tmdb.org/t/p/w780/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg"
+    },
+    {
+     "id": "fincher",
+     "name": "David Fincher",
+     "desc": "Sedm, Klub rváčů, Sociální síť, Zmizelá.",
+     "file": "collections/fincher.json",
+     "count": 12,
+     "art": "https://image.tmdb.org/t/p/w780/c6OLXfKAk5BKeR6broC8pYiCquX.jpg"
+    },
+    {
+     "id": "villeneuve",
+     "name": "Denis Villeneuve",
+     "desc": "Zajatci, Sicario, Příchozí, Blade Runner 2049 a Duna.",
+     "file": "collections/villeneuve.json",
+     "count": 11,
+     "art": "https://image.tmdb.org/t/p/w780/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg"
+    },
+    {
+     "id": "ridley-scott",
+     "name": "Ridley Scott",
+     "desc": "Vetřelec, Blade Runner, Gladiátor, Marťan.",
+     "file": "collections/ridley-scott.json",
+     "count": 30,
+     "art": "https://image.tmdb.org/t/p/w780/lzMS0CI3FLQYC5EgJoWeIaEt0lm.jpg"
+    },
+    {
+     "id": "cameron",
+     "name": "James Cameron",
+     "desc": "Terminátor, Vetřelci, Titanic a Avatar.",
+     "file": "collections/cameron.json",
+     "count": 10,
+     "art": "https://image.tmdb.org/t/p/w780/vL5LR6WdxWPjLPFRLe133jXWsh5.jpg"
+    },
+    {
+     "id": "wes-anderson",
+     "name": "Wes Anderson",
+     "desc": "Symetrie a pastelové barvy: Grandhotel Budapešť, Fantastický pan Lišák.",
+     "file": "collections/wes-anderson.json",
+     "count": 13,
+     "art": "https://image.tmdb.org/t/p/w780/jK65srQczOKTpW62wPxwwKztGgE.jpg"
+    },
+    {
+     "id": "burton",
+     "name": "Tim Burton",
+     "desc": "Střihoruký Edward, Batman, Ospalá díra, Mrtvá nevěsta.",
+     "file": "collections/burton.json",
+     "count": 20,
+     "art": "https://image.tmdb.org/t/p/w780/atoIgfAk2Ig2HFJLD0VUnjiPWEz.jpg"
+    },
+    {
+     "id": "ritchie",
+     "name": "Guy Ritchie",
+     "desc": "Sbal prachy a vypadni, Podfu(c)k, Sherlock Holmes, Gentlemani.",
+     "file": "collections/ritchie.json",
+     "count": 17,
+     "art": "https://image.tmdb.org/t/p/w780/85g84VtSf9tu1A9JqqruXEHspb7.jpg"
+    },
+    {
+     "id": "hitchcock",
+     "name": "Alfred Hitchcock",
+     "desc": "Mistr napětí: Psycho, Vertigo, Ptáci, Okno do dvora.",
+     "file": "collections/hitchcock.json",
+     "count": 44,
+     "art": "https://image.tmdb.org/t/p/w780/mufF1aYvwdpKerhq5R1YrVcbJLY.jpg"
+    },
+    {
+     "id": "forman",
+     "name": "Miloš Forman",
+     "desc": "Od Černého Petra a Hoří, má panenko po Přelet nad kukaččím hnízdem a Amadea.",
+     "file": "collections/forman.json",
+     "count": 12,
+     "art": "https://image.tmdb.org/t/p/w780/uA8eSNAUUUyfHNIrG4h0zHxzt9W.jpg"
+    },
+    {
+     "id": "menzel",
+     "name": "Jiří Menzel",
+     "desc": "Ostře sledované vlaky, Vesničko má středisková, Rozmarné léto.",
+     "file": "collections/menzel.json",
+     "count": 17,
+     "art": "https://image.tmdb.org/t/p/w780/pe2APM7NsJXfNRfq2cUWdc0dRbQ.jpg"
+    },
+    {
+     "id": "sverak",
+     "name": "Jan Svěrák",
+     "desc": "Obecná škola, Kolja, Tmavomodrý svět, Vratné lahve.",
+     "file": "collections/sverak.json",
+     "count": 10,
+     "art": "https://image.tmdb.org/t/p/w780/q9GAThBRXMeXFLArzxt1tpbjK7E.jpg"
+    },
+    {
+     "id": "lipsky",
+     "name": "Oldřich Lipský",
+     "desc": "Limonádový Joe, Adéla ještě nevečeřela, Tři veteráni.",
+     "file": "collections/lipsky.json",
+     "count": 21,
+     "art": "https://image.tmdb.org/t/p/w780/qJDyJI9CxkTrHqvfxyxTlHl6sNJ.jpg"
+    }
+   ]
+  },
+  {
+   "id": "czech",
+   "name": "Česká a slovenská klasika",
+   "items": [
+    {
+     "id": "burian",
+     "name": "Vlasta Burian",
+     "desc": "Král komiků: C. a k. polní maršálek, Ducháček to zařídí, Přednosta stanice.",
+     "file": "collections/burian.json",
+     "count": 31,
+     "art": "https://image.tmdb.org/t/p/w780/xJXoFAwKgsxXYXr9Psb2qUw0JLO.jpg"
+    },
+    {
+     "id": "de-funes",
+     "name": "Louis de Funès",
+     "desc": "Četník ze Saint-Tropez, Fantomas, Velký flám, Oskar.",
+     "file": "collections/de-funes.json",
+     "count": 41,
+     "art": "https://image.tmdb.org/t/p/w780/7db8Z5jgPbTErb0bdezzxhI8qg7.jpg"
+    },
+    {
+     "id": "pohadky",
+     "name": "Vánoční pohádky",
+     "desc": "Pohádky, které patří k českým Vánocům: od Pyšné princezny po Čertí brko.",
+     "file": "collections/pohadky.json",
+     "count": 27,
+     "art": "https://image.tmdb.org/t/p/w780/r3tn3xGjHdLnjSdQOC3WEkTloPC.jpg",
+     "months": [
+      12
+     ]
+    },
+    {
+     "id": "normalizace",
+     "name": "Komedie 70. a 80. let",
+     "desc": "Homolkovi, Cimrman, Slunce, seno a Vesničko má středisková.",
+     "file": "collections/normalizace.json",
+     "count": 22,
+     "art": "https://image.tmdb.org/t/p/w780/wxeNbOL1oulCKDKYY3WXnStb3mX.jpg"
+    },
+    {
+     "id": "nova-vlna",
+     "name": "Československá nová vlna",
+     "desc": "Forman, Chytilová, Menzel, Němec a další: zlatá šedesátá léta.",
+     "file": "collections/nova-vlna.json",
+     "count": 21,
+     "art": "https://image.tmdb.org/t/p/w780/A1Ajyl9qdUvK94ABteqEelk6M1Q.jpg"
+    }
+   ]
+  },
+  {
+   "id": "themes",
+   "name": "Témata a nálady",
+   "items": [
+    {
+     "id": "oscar",
+     "name": "Oscar za nejlepší film",
+     "desc": "Vítězové hlavního Oscara za posledních 35 let, od Tance s vlky po Anoru.",
+     "file": "collections/oscar.json",
+     "count": 35,
+     "art": "https://image.tmdb.org/t/p/w780/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg"
+    },
+    {
+     "id": "vanoce",
+     "name": "Vánoční filmy",
+     "desc": "Sám doma, Láska nebeská, Smrtonosná past a další filmy na sváteční večery.",
+     "file": "collections/vanoce.json",
+     "count": 20,
+     "art": "https://image.tmdb.org/t/p/w780/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
+     "months": [
+      12
+     ]
+    },
+    {
+     "id": "halloween",
+     "name": "Klasika hororu",
+     "desc": "Halloween, Vymítač ďábla, Osvícení, Vřískot: horory, které se vyplatí znát.",
+     "file": "collections/halloween.json",
+     "count": 23,
+     "art": "https://image.tmdb.org/t/p/w780/qVGpxnjrGlHaSTCqTQI6viBDSfp.jpg",
+     "months": [
+      10
+     ]
+    },
+    {
+     "id": "twist",
+     "name": "Nečekaný konec",
+     "desc": "Filmy, které v posledních minutách obrátí všechno vzhůru nohama. Nic neprozrazujeme.",
+     "file": "collections/twist.json",
+     "count": 18,
+     "art": "https://image.tmdb.org/t/p/w780/c6OLXfKAk5BKeR6broC8pYiCquX.jpg"
+    },
+    {
+     "id": "heist",
+     "name": "Velké loupeže",
+     "desc": "Dannyho parťáci, Nelítostný souboj, Italský job: plány, které skoro vyšly.",
+     "file": "collections/heist.json",
+     "count": 20,
+     "art": "https://image.tmdb.org/t/p/w780/yir5430WblZSZuIMd9C6pIZerfA.jpg"
+    },
+    {
+     "id": "true-story",
+     "name": "Podle skutečné události",
+     "desc": "Příběhy, které se opravdu staly. Seznam se sám doplňuje o nové filmy.",
+     "discover": {
+      "with_keywords": "9672",
+      "sort_by": "vote_count.desc",
+      "vote_count.gte": "300"
+     },
+     "art": "https://image.tmdb.org/t/p/w780/sCzcYW9h55WcesOqA12cgEr9Exw.jpg"
+    },
+    {
+     "id": "space",
+     "name": "Vesmír",
+     "desc": "Interstellar, Marťan, Gravitace a další cesty ke hvězdám. Seznam se sám doplňuje.",
+     "discover": {
+      "with_keywords": "3801",
+      "sort_by": "vote_count.desc",
+      "vote_count.gte": "300"
+     },
+     "art": "https://image.tmdb.org/t/p/w780/8sNiAPPYU14PUepFNeSNGUTiHW.jpg"
+    }
+   ]
+  },
+  {
+   "id": "studios",
+   "name": "Studia a filmové světy",
+   "items": [
+    {
+     "id": "marvel",
+     "name": "Marvel",
+     "desc": "Filmový svět Marvelu od Iron Mana po současnost.",
+     "file": "collections/marvel.json",
+     "count": 38,
+     "art": "https://image.tmdb.org/t/p/w780/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+     "saga": true
+    },
+    {
+     "id": "dc",
+     "name": "DC Comics",
+     "desc": "Superman, Batman, Wonder Woman a další hrdinové DC.",
+     "file": "collections/dc.json",
+     "count": 43,
+     "art": "https://image.tmdb.org/t/p/w780/cfT29Im5VDvjE0RpyKOSdCKZal7.jpg"
+    },
+    {
+     "id": "pixar",
+     "name": "Pixar",
+     "desc": "Příběh hraček, Hledá se Nemo, V hlavě a všechny další.",
+     "file": "collections/pixar.json",
+     "count": 31,
+     "art": "https://image.tmdb.org/t/p/w780/jJKZaTBNenlFclQyjrnvzkRmvWE.jpg"
+    },
+    {
+     "id": "ghibli",
+     "name": "Studio Ghibli",
+     "desc": "Japonská animace Hajaa Mijazakiho: Cesta do fantazie, Můj soused Totoro.",
+     "file": "collections/ghibli.json",
+     "count": 25,
+     "art": "https://image.tmdb.org/t/p/w780/m4TUa2ciEWSlk37rOsjiSIvZDXE.jpg"
+    },
+    {
+     "id": "disney",
+     "name": "Disney animované klasiky",
+     "desc": "Od Sněhurky po Ledové království: celovečerní animáky studia Walt Disney.",
+     "file": "collections/disney.json",
+     "count": 46,
+     "art": "https://image.tmdb.org/t/p/w780/9tOkjBEiiGcaClgJFtwocStZvIT.jpg"
+    },
+    {
+     "id": "dreamworks",
+     "name": "DreamWorks",
+     "desc": "Shrek, Madagaskar, Kung Fu Panda, Jak vycvičit draka.",
+     "file": "collections/dreamworks.json",
+     "count": 53,
+     "art": "https://image.tmdb.org/t/p/w780/2Biv1mSzaaxWOqvcnDZn4GcYEAb.jpg"
+    }
+   ]
+  }
+ ]
+}

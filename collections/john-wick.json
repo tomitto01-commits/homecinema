@@ -1,0 +1,7 @@
+[
+  {"title": "John Wick", "year": 2014, "genre": "Akční / Thriller", "imdb_id": "tt2911666", "tmdb_id": 245891, "poster": "https://image.tmdb.org/t/p/w342/wXqWR7dHncNRbxoEGybEy7QTe9h.jpg", "rating": 7.5, "votes": 21620, "story": 1},
+  {"title": "John Wick 2", "year": 2017, "genre": "Akční / Thriller / Krimi", "imdb_id": "tt4425200", "tmdb_id": 324552, "poster": "https://image.tmdb.org/t/p/w342/hXWBc0ioZP3cN4zCu6SN3YHXZVO.jpg", "rating": 7.3, "votes": 14837, "story": 2},
+  {"title": "John Wick 3", "year": 2019, "genre": "Akční / Thriller / Krimi", "imdb_id": "tt6146586", "tmdb_id": 458156, "poster": "https://image.tmdb.org/t/p/w342/8geOpo9Vvh9E2XjGKUl5X7yITHc.jpg", "rating": 7.4, "votes": 12277, "story": 3},
+  {"title": "John Wick: Kapitola 4", "year": 2023, "genre": "Akční / Thriller / Krimi", "imdb_id": "tt10366206", "tmdb_id": 603692, "poster": "https://image.tmdb.org/t/p/w342/wbSky29YkaM4fLhGRA1KdXflcar.jpg", "rating": 7.7, "votes": 8531, "story": 5},
+  {"title": "Balerína", "year": 2025, "genre": "Akční / Thriller / Krimi", "imdb_id": "tt7181546", "tmdb_id": 541671, "poster": "https://image.tmdb.org/t/p/w342/gH6FM2btygavhtc0ftgGY2VBzKX.jpg", "rating": 7.3, "votes": 3131, "story": 4}
+]
