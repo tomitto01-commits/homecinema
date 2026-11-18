@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-14",
+ "updated": "2026-11-18",
  "groups": [
   {
    "id": "sagas",
@@ -307,9 +307,9 @@
     {
      "id": "pohadky",
      "name": "Vánoční pohádky",
-     "desc": "Pohádky, které patří k českým Vánocům: od Pyšné princezny po Čertí brko.",
+     "desc": "České a slovenské pohádky, které patří k Vánocům: od Císařova pekaře přes Tři oříšky pro Popelku a Perinbabu po nejnovější pohádky z televize.",
      "file": "collections/pohadky.json",
-     "count": 27,
+     "count": 67,
      "art": "https://image.tmdb.org/t/p/w780/r3tn3xGjHdLnjSdQOC3WEkTloPC.jpg",
      "months": [
       12
@@ -352,6 +352,17 @@
      "file": "collections/vanoce.json",
      "count": 20,
      "art": "https://image.tmdb.org/t/p/w780/ih2xVgeMS8R5WUetYE8Mr9hVTlB.jpg",
+     "months": [
+      12
+     ]
+    },
+    {
+     "id": "pohadky-svet",
+     "name": "Vánoční pohádky ze světa",
+     "desc": "Mrazík, Sněhová královna, Vánoční koleda, Polární expres, Klaus a další pohádky o Santovi, sněhu a zázracích.",
+     "file": "collections/pohadky-svet.json",
+     "count": 29,
+     "art": "https://image.tmdb.org/t/p/w780/cYQvXNPZLow73lhspVQ7CYlT3Mi.jpg",
      "months": [
       12
      ]
